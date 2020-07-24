@@ -1,0 +1,5 @@
+Buna seara!
+Lucrand pentru un articol, am compilat date de dinamica virala in secretii respiratorii pentru gripa (influenza A), SARS si SARS-CoV2. Datele sunt in unitati diferite (TCID50 sau numar de copii ARN), dar sunt comparabile.
+Un grafic contine numai mediile peste toti pacientii. Un alt grafic are traseele medii suprapuse peste toate trace-urile individuale. Se vede cum gripa atinge maximul de virus in secretii in 48 de ore si revine la zero intr-o saptamana. In SARS, nivelurile de virus cresc si ating varful in 10 zile de la debutul simptomelor. Pentru COVID19, nivelurile virusului sunt mari chiar de la inceputul simptomelor, in secretii de tract superior sau inferior, si scad pe parcursul fazei de stare. Posibil cu valori chiar mai mari in timpul perioadei de incubatie.
+Not "just like the flu" :)).
+

@@ -1,0 +1,23 @@
+% ----------------------------------------------
+ind = 9;
+load i_sputum
+ast = i_sputum(:,1); 
+as = i_sputum(:,2); as(as<0) = 0;
+t = round(ast);
+x = as;
+subplot(3, 3, ind);
+plot(t, x, 'r.', 'MarkerSize', 15); hold on; plot(t,x, 'r');
+p(ind, t) = as;
+
+load i_swab
+ast = i_swab(:,1); 
+as = i_swab(:,2); as(as<0) = 0;
+t = round(ast);
+x = as;
+subplot(3, 3, ind);
+plot(t, x, 'g.', 'MarkerSize', 15); hold on; plot(t,x, 'g'); grid on; grid minor; hold off
+n(ind, t) = as;
+ind
+v = 1:28;
+[v' p(ind,:)' n(ind,:)']
+
