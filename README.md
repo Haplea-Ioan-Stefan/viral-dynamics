@@ -10,6 +10,7 @@ The virus actively replicates in upper (nasopharinx) and lower (lungs) epitheliu
 
 
 The source data for the two figures:
+
 Ifluenza A, (WT HK/123/77 (H1N1))
 Baccam P et al., Kinetics of Influenza A Virus Infection in Humans. Journal of Virology. 2006 Aug 1;80(15):7590–9. 
 From Table 1.
